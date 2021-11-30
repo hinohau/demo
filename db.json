@@ -1,12 +1,17 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 0,
+      "name": "Jengs",
+      "description": "Jengs NFT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/190119_Sinchon_Fansign_Hayoung_1.jpg",
+      "attributes": [] 
+    },
+    { "id": 1,
+      "name": "Jengs 1",
+      "description": "Jengs NFT 1",
+      "image": "https://cdn.vox-cdn.com/thumbor/e4KRzS--UsuixA2G8TOCwJ-O024=/1400x1050/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/6839749/pokemon.0.png",
+      "attributes": [] 
+    }
   ],
   "profile": {
     "name": "typicode"
